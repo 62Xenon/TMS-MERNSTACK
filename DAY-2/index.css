@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#nameip{
+    font-size: 20px;
+    width: 300px;
+    padding: 9px 8px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#submitBtn{
+    padding: 10px 10px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+label{
+    margin-right: 15px;
+    font-size: 16px;
+}
+
+div{
+    margin: 20px 0px
+}
+
+hr {
+    margin: 15px 0px
+}
